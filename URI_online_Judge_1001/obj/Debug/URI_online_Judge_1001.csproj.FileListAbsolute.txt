@@ -1,0 +1,7 @@
+D:\LearningASPdotNET\01_DayOne\01_HelloWorldApp\URI_online_Judge_1001\bin\Debug\URI_online_Judge_1001.exe.config
+D:\LearningASPdotNET\01_DayOne\01_HelloWorldApp\URI_online_Judge_1001\bin\Debug\URI_online_Judge_1001.exe
+D:\LearningASPdotNET\01_DayOne\01_HelloWorldApp\URI_online_Judge_1001\bin\Debug\URI_online_Judge_1001.pdb
+D:\LearningASPdotNET\01_DayOne\01_HelloWorldApp\URI_online_Judge_1001\obj\Debug\URI_online_Judge_1001.csproj.AssemblyReference.cache
+D:\LearningASPdotNET\01_DayOne\01_HelloWorldApp\URI_online_Judge_1001\obj\Debug\URI_online_Judge_1001.csproj.CoreCompileInputs.cache
+D:\LearningASPdotNET\01_DayOne\01_HelloWorldApp\URI_online_Judge_1001\obj\Debug\URI_online_Judge_1001.exe
+D:\LearningASPdotNET\01_DayOne\01_HelloWorldApp\URI_online_Judge_1001\obj\Debug\URI_online_Judge_1001.pdb
