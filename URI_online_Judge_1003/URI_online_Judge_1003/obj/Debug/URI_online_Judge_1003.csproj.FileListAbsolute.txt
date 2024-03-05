@@ -1,0 +1,6 @@
+D:\ProgrammingPrictice\URI_online_Judge\URI_online_Judge_1003\URI_online_Judge_1003\bin\Debug\URI_online_Judge_1003.exe.config
+D:\ProgrammingPrictice\URI_online_Judge\URI_online_Judge_1003\URI_online_Judge_1003\bin\Debug\URI_online_Judge_1003.exe
+D:\ProgrammingPrictice\URI_online_Judge\URI_online_Judge_1003\URI_online_Judge_1003\bin\Debug\URI_online_Judge_1003.pdb
+D:\ProgrammingPrictice\URI_online_Judge\URI_online_Judge_1003\URI_online_Judge_1003\obj\Debug\URI_online_Judge_1003.csproj.CoreCompileInputs.cache
+D:\ProgrammingPrictice\URI_online_Judge\URI_online_Judge_1003\URI_online_Judge_1003\obj\Debug\URI_online_Judge_1003.exe
+D:\ProgrammingPrictice\URI_online_Judge\URI_online_Judge_1003\URI_online_Judge_1003\obj\Debug\URI_online_Judge_1003.pdb
